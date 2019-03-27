@@ -21,3 +21,4 @@ Linha: 6 -
 >>>>>>> master
 Alterando mais uma vez
 Alterei novamente o Readme.nd - 27/03/2019 - 16:06
+Alterando novamente para testar o .gitgnore
