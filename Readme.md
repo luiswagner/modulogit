@@ -20,4 +20,5 @@ Linha: 5 - Criando nova linha 5 utilizando o branch master
 Linha: 6 -
 >>>>>>> master
 Alterando mais uma vez
+Alterei novamente
 
