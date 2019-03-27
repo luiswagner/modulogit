@@ -19,3 +19,5 @@ Linha: 4 - Alterando o arquivo Readme.md no branch Master
 Linha: 5 - Criando nova linha 5 utilizando o branch master
 Linha: 6 -
 >>>>>>> master
+Alterando mais uma vez
+
